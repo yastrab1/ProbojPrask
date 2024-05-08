@@ -1,0 +1,113 @@
+[proboj] 
+pla
+1
+Sent 1
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+3
+Sent 3
+[proboj] 
+pla
+0side
+Traceback (most recent call last):
+  File "C:\Users\luki\PycharmProjects\ProbojPrask\klienti\template\player.py", line 27, in <module>
+    p.run()
+  File "C:\Users\luki\PycharmProjects\ProbojPrask\klienti\template\probojPlayer.py", line 35, in run
+    self.send_turn(str(turn.value))
+                       ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'value'
+[proboj] process terminated
+ exit: 1
+ err: <nil>
