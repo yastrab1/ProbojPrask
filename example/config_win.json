@@ -1,0 +1,12 @@
+{
+  "server": "C:/Users/luki/AppData/Local/Programs/Python/Python312/python.exe  ../../server/server.py",
+  "server_workdir": "./",
+  "players": {
+    "randomak": {"command": "C:/Users/luki/AppData/Local/Programs/Python/Python312/python.exe  ../../klienti/randomak/player.py", "language" : "py"},
+    "hlupy": {"command": "C:/Users/luki/AppData/Local/Programs/Python/Python312/python.exe  ../../klienti/hlupy/player.py", "language" : "py"},
+    "humanL": {"command": "C:/Users/luki/AppData/Local/Programs/Python/Python312/python.exe  ../../klienti/humanL/player.py", "language" : "py"},
+    "humanR": {"command": "C:/Users/luki/AppData/Local/Programs/Python/Python312/python.exe  ../../klienti/humanR/player.py", "language" : "py"}
+  },
+  "timeout": {"py" : 0.05},
+  "disable_gzip": true
+}

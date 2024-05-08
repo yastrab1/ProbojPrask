@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\luki\PycharmProjects\ProbojPrask\klienti\hlupy\player.py", line 4, in <module>
+    from server.constants import Command
+ModuleNotFoundError: No module named 'server'
+[proboj] process terminated
+ exit: 1
+ err: <nil>

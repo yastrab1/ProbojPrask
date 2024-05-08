@@ -1,0 +1,12 @@
+[
+  {
+    "gamefolder": "games/game1",
+    "players": ["randomak", "hlupy"],
+    "args": "observe"
+  },
+  {
+    "gamefolder": "games/game1",
+    "players": ["humanL", "humanR"],
+    "args": "observe"
+  }
+]
